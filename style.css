@@ -87,7 +87,7 @@ body {
   padding: 15px 35px;
   background-color: var(--very-light-gray-background);
   letter-spacing: 1px;
-  transition: ease-in 0.5s;
+  transition: ease-in 0.3s;
 }
 
 .btn:hover {
