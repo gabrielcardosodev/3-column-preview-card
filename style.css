@@ -82,7 +82,7 @@ body {
 
 .btn {
   cursor: pointer;
-  border-style: none;
+  border: 1.5px solid transparent;
   border-radius: 30px;
   padding: 15px 35px;
   background-color: var(--very-light-gray-background);
